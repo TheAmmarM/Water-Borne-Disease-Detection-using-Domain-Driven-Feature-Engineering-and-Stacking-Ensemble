@@ -1,0 +1,22 @@
+RECOMMENDED FEATURES FOR MODELING
+==================================================
+
+Total features selected: 17
+
+- Temp
+- Turbidity (cm)
+- DO(mg/L)
+- BOD (mg/L)
+- CO2
+- pH`
+- Alkalinity (mg L-1 )
+- Hardness (mg L-1 )
+- Calcium (mg L-1 )
+- Ammonia (mg L-1 )
+- Nitrite (mg L-1 )
+- Phosphorus (mg L-1 )
+- H2S (mg L-1 )
+- Plankton (No. L-1)
+- BOD_DO_Ratio
+- Nutrient_Pollution_Index
+- Alkalinity_Hardness_Ratio

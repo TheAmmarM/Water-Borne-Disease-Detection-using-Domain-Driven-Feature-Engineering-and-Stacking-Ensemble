@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.tmp
+*.bak
+.vscode/
+.idea/
+# Python / ML scratch
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.log
+*.tfevents*
+catboost_info/
+# over GitHub 50 MB warning size - publish later via Git LFS/Release if wanted
+/champion_model.pkl

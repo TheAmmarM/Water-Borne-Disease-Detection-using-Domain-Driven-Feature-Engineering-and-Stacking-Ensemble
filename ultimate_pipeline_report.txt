@@ -1,0 +1,23 @@
+ULTIMATE WATER QUALITY CLASSIFICATION REPORT
+================================================================================
+
+Champion Model: Stack-LightGBM
+Test Accuracy: 0.9756
+Test F1-Score: 0.9754
+Overfitting: NO
+Selected Features: 13
+
+Selected Features:
+  - Turbidity (cm)
+  - BOD (mg/L)
+  - Nutrient_Pollution_Index
+  - H2S (mg L-1 )
+  - Hardness (mg L-1 )
+  - Alkalinity (mg L-1 )
+  - CO2
+  - BOD_DO_Ratio
+  - Oxygen_Saturation
+  - DO(mg/L)
+  - Nitrite (mg L-1 )
+  - Ammonia (mg L-1 )
+  - Calcium (mg L-1 )

@@ -1,0 +1,25 @@
+CHAMPION MODEL: Random Forest
+============================================================
+
+Random Forest Best Parameters:
+  n_estimators: 300
+  min_samples_split: 5
+  min_samples_leaf: 2
+  max_features: sqrt
+  max_depth: None
+  bootstrap: False
+
+Random Forest CV F1-Score: 0.9971
+Random Forest Test F1-Score: 0.9953
+
+Gradient Boosting Best Parameters:
+  subsample: 0.8
+  n_estimators: 300
+  min_samples_split: 2
+  min_samples_leaf: 1
+  max_features: sqrt
+  max_depth: 5
+  learning_rate: 0.2
+
+Gradient Boosting CV F1-Score: 0.9983
+Gradient Boosting Test F1-Score: 0.9930
